@@ -3,3 +3,4 @@
 ## Lo que contiene:
 - permite conocer como crear un crud con php
 - permite conocer la conexión con mysqli
+- permite devolver mensajes después de las operaciones
